@@ -94,7 +94,6 @@
 /mkinstalldirs
 /po/*
 /proxy/
-/python/
 /run
 /sc_*
 /src/.*.stamp
